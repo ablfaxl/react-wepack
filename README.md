@@ -21,6 +21,7 @@ yarn build
 ```
 
 ## Technology
+<p  align="center">
 
 ![](https://img.shields.io/badge/React-blue)
 
@@ -28,11 +29,14 @@ yarn build
 
 ![](https://img.shields.io/badge/babel-gold)
 
+</p>
+
 ## Demo
 
-Insert gif or link to demo
 
-![](https://drive.google.com/file/d/1x4TMsdgZTOBndv8vd6JJxr_xTmKE2avL/view?usp=sharing)
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCsPHYvZxliOZZk-zPjyP_-XrCCW8GxM6mR7gx0kPbXu-qS2WtHmZr2GXGQQWuO3-Wc54IMcXURIQZFac3OezMauOhx=w1920-h896" width="550" alt="accessibility text">
+</p>
 
 ## Authors
 
