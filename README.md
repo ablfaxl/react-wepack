@@ -20,6 +20,23 @@ npm run build
 yarn build
 ```
 
+Run esLint Script: 
+```
+npm run lint
+# or
+yarn lint
+```
+
+
+Run prettier Script: 
+```
+npm run format
+# or
+yarn format
+```
+
+
+
 ## Technology
 <p  align="center">
 
@@ -34,8 +51,8 @@ yarn build
 ## Demo
 
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCsPHYvZxliOZZk-zPjyP_-XrCCW8GxM6mR7gx0kPbXu-qS2WtHmZr2GXGQQWuO3-Wc54IMcXURIQZFac3OezMauOhx=w1920-h896" width="550" alt="accessibility text">
+<p align="left">
+  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDwi8SAOz7p74s0ZlwsaBGehhC9YM9dx8t0BANy-BmFiKxOjtent4FqTjQ2t6SR4SmaFhfmW8dPtyHMier9T95pa-jd_Q=w1147-h896" width="100%" alt="webpack project">
 </p>
 
 ## Authors
